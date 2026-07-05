@@ -1,0 +1,276 @@
+PETROTECH ENERGY LTD.
+PRODUCTION SURVEILLANCE REPORT
+Week of June 23-29, 2024
+
+TO: Production Superintendent
+FROM: Graduate Production Surveillance Engineer
+DATE: June 24, 2024
+SUBJECT: Weekly Well Performance Analysis & Recommendations
+
+=============================================================================
+
+EXECUTIVE SUMMARY
+
+Analysis of 50 wells across three fields (Alpha, Bravo, Charlie) reveals mixed operational performance. Total field production stands at 139,847 bbl/day of oil, with an average water cut of 34.8%. While 42 wells operate at design conditions, 8 wells require immediate engineering intervention, and 5 shut-in wells present restart opportunities. This report identifies critical issues and recommends prioritized actions to optimize field economics.
+
+=============================================================================
+
+FIELD PERFORMANCE OVERVIEW
+
+┌─────────────────────────────────────────────────────────────────┐
+│ FIELD SUMMARY                                                   │
+├──────────┬────────────────┬────────────────┬──────────────────┤
+│ Field    │ Oil (bbl/day)  │ Water (bbl/day)│ Active Wells     │
+├──────────┼────────────────┼────────────────┼──────────────────┤
+│ Alpha    │ 47,234         │ 16,200         │ 14               │
+│ Bravo    │ 45,890         │ 15,670         │ 14               │
+│ Charlie  │ 46,723         │ 15,245         │ 14               │
+├──────────┼────────────────┼────────────────┼──────────────────┤
+│ TOTAL    │ 139,847        │ 47,115         │ 42               │
+└──────────┴────────────────┴────────────────┴──────────────────┘
+
+Key Observations:
+• Alpha Field: Highest production but also highest water cut (34.2%). Indicates advanced sweep pattern or formation water pressure.
+• Bravo Field: Balanced production with moderate water cut (34.1%). Well-managed reservoir conditions.
+• Charlie Field: Stable performance with lowest water cut (32.6%). Recommend maintaining current operations.
+
+Average Reservoir Pressure: 2,847 psi (within expected range)
+Average Temperature: 181°F (normal, no thermal anomalies)
+
+=============================================================================
+
+WELLS REQUIRING IMMEDIATE ATTENTION
+
+CRITICAL PRIORITY (Workover Candidates) - 4 Wells
+
+Well W008 (Alpha, ESP)
+├─ Oil Production: 1,120 bbl/day (72% decline from expected)
+├─ Water Cut: 41.8%
+├─ Pressure: 2,540 psi
+├─ Issue: Low oil + high water suggests tubing leak or pump wear
+├─ Recommendation: Pull tubing for inspection; check pump performance curve
+└─ Estimated Impact: +400 bbl/day recovery = $5.2M/year revenue
+
+Well W019 (Bravo, Rod Pump)
+├─ Oil Production: 980 bbl/day (severely depleted)
+├─ Water Cut: 44.2%
+├─ Pressure: 2,310 psi
+├─ Issue: Mechanical failure indicated by water production spike
+├─ Recommendation: Pull rod string; inspect for corrosion; consider ESP retrofit
+└─ Estimated Impact: +350 bbl/day recovery = $4.6M/year revenue
+
+Well W027 (Charlie, Rod Pump)
+├─ Oil Production: 1,340 bbl/day
+├─ Water Cut: 46.1%
+├─ Pressure: 2,280 psi
+├─ Issue: Low pressure + high water indicates lost wellbore integrity or casing leak
+├─ Recommendation: Pressure test casing; potential squeeze cement program
+└─ Estimated Impact: +300 bbl/day recovery = $3.9M/year revenue
+
+Well W035 (Alpha, Gas Lift)
+├─ Oil Production: 1,280 bbl/day
+├─ Water Cut: 42.3%
+├─ Pressure: 2,350 psi
+├─ Issue: Gas lift system underperforming; possible valve erosion
+├─ Recommendation: Recertify gas lift valves; increase injection pressure if margin available
+└─ Estimated Impact: +250 bbl/day recovery = $3.3M/year revenue
+
+---
+
+HIGH PRIORITY (Water Shutoff Study) - 4 Wells
+
+Wells W012, W018, W024, W031 (Various Fields)
+├─ Common Issue: Water production >1,200 bbl/day
+├─ Water Cut Range: 38-42%
+├─ Likely Cause: Water cone advancing toward perforations
+├─ Recommendation: Conduct water shutoff study using production logs and pressure analysis
+├─ Action Timeline: Complete study within 2 weeks; schedule cement squeeze if justified
+└─ Estimated Impact: +150-200 bbl/day per well = $1.8-2.4M/year revenue (cumulative)
+
+=============================================================================
+
+WELLS IN EXCELLENT CONDITION
+
+GREEN FLAG (Maintain Current Operations) - 30 Wells
+
+Examples:
+├─ W001, W003, W005, W007, W010 (Alpha Field)
+├─ W014, W016, W020, W022 (Bravo Field)
+├─ W026, W028, W030, W032 (Charlie Field)
+
+Performance Characteristics:
+• Oil production: 3,200-4,500 bbl/day
+• Water cut: 20-30%
+• Pressure: 2,950-3,250 psi
+• Status: Active, performing at design conditions
+
+Action: Continue routine surveillance; monitor for anomalies.
+
+=============================================================================
+
+SHUT-IN WELLS - RESTART EVALUATION
+
+5 Wells Currently Shut-in
+
+Well W045 (Alpha)
+├─ Last Production: 2,800 bbl/day (average performer)
+├─ Shut-in Reason: Scheduled maintenance
+├─ Current Status: Maintenance complete
+├─ Recommendation: Pressure test; restart on reduced rate (2,000 bbl/day) for 3 days
+├─ Expected Revenue: +$2.8M/year
+└─ Timeline: Restart within 7 days
+
+Well W046-W050 (Mixed Fields)
+├─ Previous Production: 1,800-2,400 bbl/day (moderate performers)
+├─ Shut-in Status: Economic review ongoing
+├─ Recommendation: Evaluate market conditions before restart
+└─ Timeline: Decision by end of month
+
+=============================================================================
+
+KEY TRENDS & ANALYSIS
+
+Trend 1: Increasing Water Production
+│ Average Water Cut: 34.8% (elevated)
+│ Concern: Advanced water encroachment in several wells
+│ Forecast: Without intervention, 15-20% production loss annually
+│ Action: Implement water shutoff studies (priority)
+
+Trend 2: Pump Efficiency Variance
+│ ESP Efficiency: Avg 94% (excellent)
+│ Rod Pump Efficiency: Avg 88% (baseline)
+│ Gas Lift Efficiency: Avg 91% (good)
+│ Insight: ESPs performing as designed; Rod pumps may need refurbishment
+
+Trend 3: Pressure Decline Pattern
+│ Bravo Field: 2,840 psi (slight decline detected)
+│ Risk: If decline continues, production may drop 10-15%
+│ Recommendation: Baseline pressure map; monthly surveillance
+
+Trend 4: Equipment Reliability
+│ Total Well Count: 50
+│ Active & Producing: 42 (84%)
+│ Monitor Status: 8 (16%)
+│ Shut-in: 5 (10%)
+│ Assessment: Above-average equipment reliability; monitor wear patterns
+
+=============================================================================
+
+PRIORITY RECOMMENDATIONS
+
+IMMEDIATE ACTIONS (This Week)
+
+1. Approve workover for Well W008
+   └─ Estimated cost: $125,000 | Expected recovery: 400 bbl/day | ROI: 180 days
+
+2. Schedule pressure test for Well W027
+   └─ Estimated cost: $45,000 | Diagnostic for casing integrity
+
+3. Begin water shutoff study for Well W012
+   └─ Estimated cost: $35,000 | Expected recovery: 180 bbl/day
+
+4. Initiate restart procedures for Well W045
+   └─ Estimated cost: $50,000 | Expected recovery: 2,800 bbl/day
+
+Estimated Cost: $255,000
+Estimated Recovery: 3,380 bbl/day annual
+Estimated Revenue Impact: $4.4M annually
+
+---
+
+SHORT-TERM ACTIONS (2-4 Weeks)
+
+5. Complete water shutoff study for Wells W018, W024, W031
+6. Execute rod string pull on Well W019 (mechanical inspection)
+7. Pressure test casing on critical wells identified in trend analysis
+8. Recertify gas lift valves on Well W035
+9. Develop equipment maintenance roadmap for Rod Pump fleet
+
+---
+
+MEDIUM-TERM ACTIONS (1-3 Months)
+
+10. Implement enhanced surveillance protocol for high-water-cut wells
+11. Evaluate ESP retrofit candidates for Rod Pump installations
+12. Develop pressure decline forecast model
+13. Schedule planned maintenance for Bravo field (align with production dip)
+
+=============================================================================
+
+OPERATIONAL METRICS
+
+Daily Production Rate Breakdown:
+├─ Design Capacity: 155,000 bbl/day (normalized field)
+├─ Current Production: 139,847 bbl/day (90.2% utilization)
+├─ Production Loss: 15,153 bbl/day (attributable to 8 problem wells + 5 shut-ins)
+└─ Recovery Potential: 6,200 bbl/day (if all recommendations executed)
+
+Financial Impact:
+├─ Current Revenue (@ $75/bbl): $10.5M/day
+├─ Potential Revenue Loss (if 8 wells fail): -$1.1M/day
+├─ Recovery Potential: +$465,000/day
+└─ Annual Opportunity: +$170M (if all actions executed)
+
+Risk Assessment:
+├─ High Risk (immediate action needed): 4 wells
+├─ Medium Risk (study phase): 4 wells
+├─ Low Risk (monitor): 8 wells
+├─ Performing: 30 wells
+└─ Shut-in (opportunity): 5 wells
+
+=============================================================================
+
+COMPARISON TO INDUSTRY BENCHMARKS
+
+Metric                    | PetroTech | Industry Avg | Status
+──────────────────────────┼───────────┼─────────────┼─────────
+Average Water Cut         | 34.8%     | 38.2%       | ✓ Better
+Well Availability         | 84%       | 81%         | ✓ Better
+Pump Efficiency (ESP)      | 94%       | 92%         | ✓ Better
+Production per Well       | 2,797 bbl/day | 2,650   | ✓ Better
+Equipment Downtime        | 3.2 days/well/year | 4.1 | ✓ Better
+
+Conclusion: PetroTech performing above industry standards. With recommended interventions, advantage will increase.
+
+=============================================================================
+
+CONCLUSION
+
+This week's analysis identifies actionable optimization opportunities worth $170M annually. Field is performing well relative to industry benchmarks, but targeted interventions—primarily focused on water shutoff and workover candidates—will unlock significant additional value.
+
+Recommend immediate approval of critical workover program to maximize 2024 field potential.
+
+=============================================================================
+
+ATTACHMENTS
+
+1. Production Data Summary (50 wells, all parameters)
+2. Field Summary Table (by field performance)
+3. KPI Dashboard (executive-level metrics)
+4. Alert Wells List (wells requiring attention)
+5. Charts:
+   ├─ Oil Production by Field
+   ├─ Water Production by Field
+   ├─ Well Status Distribution (Pie Chart)
+   └─ Pump Type Distribution (Bar Chart)
+6. Conditional Formatting Visual (color-coded well status)
+7. Engineering Decision Matrix (recommendations by well)
+
+=============================================================================
+
+NEXT REVIEW
+
+Next surveillance report: Week of June 30, 2024
+Focus areas: 
+- Workover completion status
+- Water shutoff study results
+- Pressure trend confirmation
+- Restart well performance
+
+Signature: ________________________     Date: June 24, 2024
+
+Approval: ________________________     Date: ________________
+(Production Superintendent)
+
+=============================================================================
+END OF REPORT

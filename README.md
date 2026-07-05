@@ -201,7 +201,7 @@ Columns:
 
 Rows:Auto-populated using IF logic; only problem wells appear
 
- Charts (4 Required)
+ Charts 
 
  Chart 1: Oil Production by Field
 - Type: Column Chart
